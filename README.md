@@ -33,7 +33,7 @@ map.html
         <title>Dhivya Dharshini</title>
     </head>
     <body>
-        <h1 align="center">PONDICHERRY MAP-25017613</h1>
+        <h1 align="center">PONDICHERRY MAP-25004153</h1>
 
 <img src="map.png" usemap="#image-map">
 
